@@ -6,7 +6,7 @@
             "Genre": "ShadowHall",
             "ImageId": "",
             "SoundId": "rbxassetid://76530461593088",
-            "Speed": 0.5
+            "Speed": 0.8
         },
         {
             "Title": "Metro M3",
@@ -14,7 +14,7 @@
             "Genre": "ShadowHall",
             "ImageId": "",
             "SoundId": "rbxassetid://132984726546375",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "SOX - KA MA TA",
@@ -40,53 +40,14 @@
             "SoundId": "rbxassetid://107616368105392",
             "Speed": 0.5
         },
-        {
-            "Title": "Gangsta's Paradise",
-            "Artist": "ShadowHall",
-            "Genre": "ShadowHall",
-            "ImageId": "",
-            "SoundId": "rbxassetid://75283267262868",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Aku Bete Sama Kamu",
-            "Artist": "ShadowHall",
-            "Genre": "ShadowHall",
-            "ImageId": "",
-            "SoundId": "rbxassetid://83817418053316",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Mix Test",
-            "Artist": "ShadowHall",
-            "Genre": "ShadowHall",
-            "ImageId": "",
-            "SoundId": "rbxassetid://129095349653163",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Coba Coba",
-            "Artist": "ShadowHall",
-            "Genre": "ShadowHall",
-            "ImageId": "",
-            "SoundId": "rbxassetid://77533933904801",
-            "Speed": 0.5
-        },
-        {
-            "Title": "Pargoy Gerah",
-            "Artist": "ShadowHall",
-            "Genre": "ShadowHall",
-            "ImageId": "",
-            "SoundId": "rbxassetid://78859797813378",
-            "Speed": 0.5
-        },
+       
         {
             "Title": "DJ All Night",
             "Artist": "ShadowHall",
             "Genre": "ShadowHall",
             "ImageId": "",
             "SoundId": "rbxassetid://110366501993936",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "DJ TAKUTU",
@@ -118,7 +79,7 @@
             "Genre": "ShadowHall",
             "ImageId": "",
             "SoundId": "rbxassetid://123188599070811",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "RICH BRIAN - DAT STICK BKB EDIT",
@@ -206,7 +167,7 @@
             "Genre": "ShadowHall",
             "ImageId": "",
             "SoundId": "rbxassetid://112483485202938",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "Westlife – Soledad [BKB Edit]",
@@ -262,7 +223,7 @@
             "Genre": "ShadowHall",
             "ImageId": "",
             "SoundId": "rbxassetid://95387898140520",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "DJ BEAUTY AND A BEAT BREAKBEAT",
@@ -398,7 +359,7 @@
             "Genre": "ShadowHall",
             "ImageId": "",
             "SoundId": "rbxassetid://76660351958412",
-            "Speed": 0.5
+            "Speed": 1
         },
         {
             "Title": "Show Me Love X Take My Mind",
@@ -622,7 +583,7 @@
             "Genre": "ShadowHall",
             "ImageId": "",
             "SoundId": "rbxassetid://83211376392010",
-            "Speed": 0.5
+            "Speed": 0.3
         },
         {
             "Title": "Give Me Everything X Que Calor",

@@ -657,13 +657,29 @@
             "SoundId": "rbxassetid://135174782192368",
             "Speed": 0.5
         },
-            {
+        {
             "Title": "Sherine - Sabry Aalil _ AFRO HOUSE REMIX",
             "Artist": "ShadowHall",
             "Genre": "Remix",
             "ImageId": "",
             "SoundId": "rbxassetid://80315842795058",
             "Speed": 0.5
-        }
+        },
+        {
+            "Title": "HOME",
+            "Artist": "ShadowHall",
+            "Genre": "Remix",
+            "ImageId": "",
+            "SoundId": "rbxassetid://80086589566776",
+            "Speed": 0.5
+        },
+        {
+            "Title": "DIE ON THIS HILL",
+            "Artist": "ShadowHall",
+            "Genre": "Remix",
+            "ImageId": "",
+            "SoundId": "rbxassetid://133052629322528",
+            "Speed": 0.5
+        },
     ]
 }

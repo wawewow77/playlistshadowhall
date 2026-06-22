@@ -1184,5 +1184,29 @@
       "SoundId": "rbxassetid://83573089996343",
       "Speed": 0.5
     },
+    {
+      "Title": "trap queen",
+      "Artist": "ShadowHall",
+      "Genre": "Hip Hop",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://72331645244245",
+      "Speed": 0.5
+    },
+    {
+      "Title": "love",
+      "Artist": "ShadowHall",
+      "Genre": "Hip Hop",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://125136285629356",
+      "Speed": 0.5
+    },
+    {
+      "Title": "empire state of mind",
+      "Artist": "ShadowHall",
+      "Genre": "Hip Hop",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://94420339366257",
+      "Speed": 0.5
+    },
   ]
 }

@@ -32,15 +32,7 @@
       "SoundId": "rbxassetid://76420559895957",
       "Speed": 0.5
     },
-        {
-      "Title": "horrreg",
-      "Artist": "ShadowHall",
-      "Genre": "HIPDUT",
-      "ImageId": "",
-      "SoundId": "rbxassetid://126993960915744",
-      "Speed": 0.5
-    },
-        {
+    {
       "Title": "mi gente",
       "Artist": "ShadowHall",
       "Genre": "Breakbeat",
@@ -48,7 +40,7 @@
       "SoundId": "rbxassetid://116741210531721",
       "Speed": 0.5
     },
-        {
+    {
       "Title": "the hum",
       "Artist": "ShadowHall",
       "Genre": "Breakbeat",
@@ -56,7 +48,7 @@
       "SoundId": "rbxassetid://70564662476175",
       "Speed": 0.5
     },
-        {
+    {
       "Title": "baby don't go",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",
@@ -64,7 +56,7 @@
       "SoundId": "rbxassetid://94833338266453",
       "Speed": 0.5
     },
-        {
+    {
       "Title": "we like to party",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",
@@ -72,7 +64,7 @@
       "SoundId": "rbxassetid://127373941638586",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "j town",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",
@@ -80,7 +72,7 @@
       "SoundId": "rbxassetid://85307194831126",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "narco x we found love",
       "Artist": "ShadowHall",
       "Genre": "Indobounce",
@@ -88,7 +80,7 @@
       "SoundId": "rbxassetid://72480628444108",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "yummy x epic",
       "Artist": "ShadowHall",
       "Genre": "Remix",
@@ -96,7 +88,7 @@
       "SoundId": "rbxassetid://90684776107426",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "satisfaction",
       "Artist": "ShadowHall",
       "Genre": "Remix",
@@ -104,7 +96,7 @@
       "SoundId": "rbxassetid://72133201821845",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "roses",
       "Artist": "ShadowHall",
       "Genre": "Remix",
@@ -112,7 +104,7 @@
       "SoundId": "rbxassetid://92708300636717",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "booty call",
       "Artist": "ShadowHall",
       "Genre": "Remix",
@@ -120,7 +112,7 @@
       "SoundId": "rbxassetid://113786754775206",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "pemilik hati",
       "Artist": "ShadowHall",
       "Genre": "Breakbeat",
@@ -128,7 +120,7 @@
       "SoundId": "rbxassetid://75676927414907",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "aku memang pecinta wanita",
       "Artist": "ShadowHall",
       "Genre": "BKB",
@@ -136,7 +128,7 @@
       "SoundId": "rbxassetid://82419143903832",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "ada bayangmu",
       "Artist": "ShadowHall",
       "Genre": "Remix",
@@ -144,7 +136,7 @@
       "SoundId": "rbxassetid://76745969141002",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "aku meriang",
       "Artist": "ShadowHall",
       "Genre": "Remix",
@@ -152,7 +144,7 @@
       "SoundId": "rbxassetid://131711256844511",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "seperti mati lampu",
       "Artist": "ShadowHall",
       "Genre": "Breakbeat",
@@ -160,7 +152,7 @@
       "SoundId": "rbxassetid://129319506831353",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "bukan bang toyib",
       "Artist": "ShadowHall",
       "Genre": "Breakbeat",
@@ -168,7 +160,7 @@
       "SoundId": "rbxassetid://93810895981879",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "helena",
       "Artist": "ShadowHall",
       "Genre": "Breakbeat",
@@ -176,7 +168,7 @@
       "SoundId": "rbxassetid://113145986913423",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "the ketchup",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",
@@ -184,7 +176,7 @@
       "SoundId": "rbxassetid://127373941638586",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "bel mercy",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",
@@ -192,7 +184,7 @@
       "SoundId": "rbxassetid://126428268900211",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "ole!",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",
@@ -200,7 +192,7 @@
       "SoundId": "rbxassetid://71832230225940",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "crush",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",
@@ -208,7 +200,7 @@
       "SoundId": "rbxassetid://114044874106205",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "sucker",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",
@@ -216,7 +208,7 @@
       "SoundId": "rbxassetid://111340722951856",
       "Speed": 0.5
     },
-            {
+    {
       "Title": "Voices In My Head x Freaks x Love Parade",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",
@@ -457,7 +449,7 @@
       "Speed": 0.5
     },
     {
-      "Title": "Naykilla So Asu (Thailand Edit)",
+      "Title": "Naykilla So Asu (Thailand Edit)",
       "Artist": "ShadowHall",
       "Genre": "BKB",
       "ImageId": "",
@@ -998,102 +990,6 @@
       "Genre": "Amapiano",
       "ImageId": "",
       "SoundId": "rbxassetid://71095753779328",
-      "Speed": 0.5
-    },
-    {
-      "Title": "bhabi",
-      "Artist": "ShadowHall",
-      "Genre": "Indobounce",
-      "ImageId": "",
-      "SoundId": "rbxassetid://132898132095583",
-      "Speed": 0.5
-    },
-    {
-      "Title": "Sahara",
-      "Artist": "ShadowHall",
-      "Genre": "Original song",
-      "ImageId": "",
-      "SoundId": "rbxassetid://74291966001590",
-      "Speed": 0.5
-    },
-    {
-      "Title": "Nackal",
-      "Artist": "ShadowHall",
-      "Genre": "HIPDUT",
-      "ImageId": "",
-      "SoundId": "rbxassetid://84772794442556",
-      "Speed": 0.5
-    },
-    {
-      "Title": "naughty girl",
-      "Artist": "ShadowHall",
-      "Genre": "Original song",
-      "ImageId": "",
-      "SoundId": "rbxassetid://116110615539533",
-      "Speed": 0.5
-    },
-    {
-      "Title": "hrny",
-      "Artist": "ShadowHall",
-      "Genre": "Breakbeat",
-      "ImageId": "",
-      "SoundId": "rbxassetid://130871516504437",
-      "Speed": 0.5
-    },
-    {
-      "Title": "obh combi sachet",
-      "Artist": "ShadowHall",
-      "Genre": "Remix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://106191951194651",
-      "Speed": 0.5
-    },
-    {
-      "Title": "feels like home",
-      "Artist": "ShadowHall",
-      "Genre": "Breakbeat",
-      "ImageId": "",
-      "SoundId": "rbxassetid://98746114583538",
-      "Speed": 0.5
-    },
-    {
-      "Title": "vois sur ton chemin",
-      "Artist": "ShadowHall",
-      "Genre": "Remix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://114967747012731",
-      "Speed": 0.5
-    },
-    {
-      "Title": "barudak phonk terror",
-      "Artist": "ShadowHall",
-      "Genre": "BKB",
-      "ImageId": "",
-      "SoundId": "rbxassetid://131995016198480",
-      "Speed": 0.5
-    },
-    {
-      "Title": "eeee a",
-      "Artist": "ShadowHall",
-      "Genre": "Remix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://122860415038071",
-      "Speed": 0.5
-    },
-    {
-      "Title": "iyaiya",
-      "Artist": "ShadowHall",
-      "Genre": "Remix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://117162508027411",
-      "Speed": 0.5
-    },
-    {
-      "Title": "like jennie",
-      "Artist": "ShadowHall",
-      "Genre": "Remix",
-      "ImageId": "",
-      "SoundId": "rbxassetid://75638406682574",
       "Speed": 0.5
     }
   ]

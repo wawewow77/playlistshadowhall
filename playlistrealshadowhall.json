@@ -9,12 +9,84 @@
             "Speed": 0.8
         },
         {
+            "Title": "horrreg",
+            "Artist": "ShadowHall",
+            "Genre": "HIPDUT",
+            "ImageId": "",
+            "SoundId": "rbxassetid://126993960915744",
+            "Speed": 0.5
+        },
+        {
+            "Title": "pok ani ani",
+            "Artist": "ShadowHall",
+            "Genre": "HIPDUT",
+            "ImageId": "",
+            "SoundId": "rbxassetid://133112795584308",
+            "Speed": 0.5
+        },
+        {
+            "Title": "Runaway",
+            "Artist": "ShadowHall",
+            "Genre": "Remix",
+            "ImageId": "",
+            "SoundId": "rbxassetid://117510329949373",
+            "Speed": 0.5
+        },
+        {
+            "Title": "en den dino",
+            "Artist": "ShadowHall",
+            "Genre": "Remix",
+            "ImageId": "",
+            "SoundId": "rbxassetid://132634295623425",
+            "Speed": 0.5
+        },
+                {
+            "Title": "the fate of ophelia",
+            "Artist": "ShadowHall",
+            "Genre": "Remix",
+            "ImageId": "",
+            "SoundId": "rbxassetid://98163138573894",
+            "Speed": 0.5
+        },
+                        {
+            "Title": " stay high ",
+            "Artist": "ShadowHall",
+            "Genre": "Remix",
+            "ImageId": "",
+            "SoundId": "rbxassetid://130619541577766",
+            "Speed": 0.5
+        },
+                        {
+            "Title": "moliendo cafe",
+            "Artist": "ShadowHall",
+            "Genre": "Breakbeat",
+            "ImageId": "",
+            "SoundId": "rbxassetid://102663007103527 ",
+            "Speed": 0.5
+        },
+                        {
+            "Title": "hamil duluan",
+            "Artist": "ShadowHall",
+            "Genre": "BKB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://127897802251931",
+            "Speed": 0.5
+        },
+        {
             "Title": "Metro M3",
             "Artist": "ShadowHall",
             "Genre": "HardTechno",
             "ImageId": "",
             "SoundId": "rbxassetid://132984726546375",
             "Speed": 1
+        },
+        {
+            "Title": "becak never dies",
+            "Artist": "ShadowHall",
+            "Genre": "Indobounce",
+            "ImageId": "",
+            "SoundId": "rbxassetid://116770724891527",
+            "Speed": 0.5
         },
         {
             "Title": "SOX - KA MA TA",

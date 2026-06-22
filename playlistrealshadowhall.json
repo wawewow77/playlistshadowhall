@@ -57,6 +57,22 @@
       "Speed": 0.5
     },
     {
+      "Title": "psy",
+      "Artist": "ShadowHall",
+      "Genre": "HardTechno",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://122164149222346",
+      "Speed": 0.5
+    },
+    {
+      "Title": "vois sur ton chemin",
+      "Artist": "ShadowHall",
+      "Genre": "HardTechno",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://78976016106574",
+      "Speed": 0.5
+    },
+    {
       "Title": "we like to party",
       "Artist": "ShadowHall",
       "Genre": "HardTechno",

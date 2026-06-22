@@ -17,6 +17,62 @@
       "Speed": 0.5
     },
     {
+      "Title": "iyaiya",
+      "Artist": "ShadowHall",
+      "Genre": "Remix",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://117162508027411",
+      "Speed": 0.5
+    },
+    {
+      "Title": "obh combi sachet",
+      "Artist": "ShadowHall",
+      "Genre": "Remix",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://106191951194651",
+      "Speed": 0.5
+    },
+    {
+      "Title": "vois sur ton chemin",
+      "Artist": "ShadowHall",
+      "Genre": "Remix",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://114967747012731",
+      "Speed": 0.5
+    },
+    {
+      "Title": " eeee a",
+      "Artist": "ShadowHall",
+      "Genre": "Remix",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://122860415038071",
+      "Speed": 0.5
+    },
+    {
+      "Title": "like jennie",
+      "Artist": "ShadowHall",
+      "Genre": "Remix",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://75638406682574",
+      "Speed": 0.5
+    },
+    {
+      "Title": "blackpink jump",
+      "Artist": "ShadowHall",
+      "Genre": "Remix",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://93778234632150",
+      "Speed": 0.5
+    },
+    {
+      "Title": "sheesh",
+      "Artist": "ShadowHall",
+      "Genre": "Remix",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://104793888473919",
+      "Speed": 0.5
+    },
+    {
       "Title": "young wild & free",
       "Artist": "ShadowHall",
       "Genre": "Remix",
@@ -38,6 +94,22 @@
       "Genre": "Breakbeat",
       "ImageId": "rbxassetid://85139338120923",
       "SoundId": "rbxassetid://116741210531721",
+      "Speed": 0.5
+    },
+    {
+      "Title": "hrny",
+      "Artist": "ShadowHall",
+      "Genre": "Breakbeat",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://130871516504437",
+      "Speed": 0.5
+    },
+    {
+      "Title": "feels like home",
+      "Artist": "ShadowHall",
+      "Genre": "Breakbeat",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://98746114583538",
       "Speed": 0.5
     },
     {
@@ -241,6 +313,14 @@
       "Speed": 0.5
     },
     {
+      "Title": "Nackal",
+      "Artist": "ShadowHall",
+      "Genre": "HIPDUT",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://84772794442556",
+      "Speed": 0.5
+    },
+    {
       "Title": "Runaway",
       "Artist": "ShadowHall",
       "Genre": "Remix",
@@ -286,6 +366,14 @@
       "Genre": "BKB",
       "ImageId": "rbxassetid://85139338120923",
       "SoundId": "rbxassetid://127897802251931",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Barudak Phonk",
+      "Artist": "ShadowHall",
+      "Genre": "BKB",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://131995016198480",
       "Speed": 0.5
     },
     {
@@ -1015,6 +1103,46 @@
       "ImageId": "rbxassetid://85139338120923",
       "SoundId": "rbxassetid://132898132095583",
       "Speed": 0.5
-    }
+    },
+    {
+      "Title": "poppin in the club",
+      "Artist": "ShadowHall",
+      "Genre": "Hip Hop",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://87889568283901",
+      "Speed": 0.5
+    },
+    {
+      "Title": "in da club",
+      "Artist": "ShadowHall",
+      "Genre": "Hip Hop",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://109228855648123",
+      "Speed": 0.5
+    },
+    {
+      "Title": "without me",
+      "Artist": "ShadowHall",
+      "Genre": "Hip Hop",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://91920944727159",
+      "Speed": 0.5
+    },
+    {
+      "Title": "finesse",
+      "Artist": "ShadowHall",
+      "Genre": "Hip Hop",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://139887476240668",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Gasolina+Get low + bola rebola + boombayah",
+      "Artist": "ShadowHall",
+      "Genre": "Hip Hop",
+      "ImageId": "rbxassetid://85139338120923",
+      "SoundId": "rbxassetid://103116785461658",
+      "Speed": 0.5
+    },
   ]
 }

@@ -1519,6 +1519,54 @@
       "ImageId": "",
       "SoundId": "rbxassetid://80777106185551",
       "Speed": 0.5
+    },
+    {
+      "Title": "I Miss You",
+      "Artist": "ShadowHall",
+      "Genre": "Galau",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110045456533205",
+      "Speed": 0.5
+    },
+    {
+      "Title": "2112",
+      "Artist": "ShadowHall",
+      "Genre": "Galau",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130452709313366",
+      "Speed": 0.5
+    },
+   {
+      "Title": "About You x Merry Christmas, Please Don't Call",
+      "Artist": "ShadowHall",
+      "Genre": "Galau",
+      "ImageId": "",
+      "SoundId": "rbxassetid://79028020831462",
+      "Speed": 0.5
+    },
+   {
+      "Title": "Winner takes it all × The night we met",
+      "Artist": "ShadowHall",
+      "Genre": "Galau",
+      "ImageId": "",
+      "SoundId": "rbxassetid://93926415394488",
+      "Speed": 0.5
+    },
+   {
+      "Title": "I've always loved you",
+      "Artist": "ShadowHall",
+      "Genre": "Galau",
+      "ImageId": "",
+      "SoundId": "rbxassetid://111696402096321",
+      "Speed": 0.5
+    },
+   {
+      "Title": "we'll be okay, for today",
+      "Artist": "ShadowHall",
+      "Genre": "Galau",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71009562419262",
+      "Speed": 0.5
     }
   ]
 }
